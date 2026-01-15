@@ -1,0 +1,14 @@
+# Strava Training Load & Performance Analysis
+
+An interactive analytics project using personal Strava data to explore training volume,
+intensity, and performance trends. Built with Streamlit and Python.
+
+## Overview
+This projects includes loading Strava activity history straight from the app, cleaning and processing training, and
+performing an overall, in depth analysis of said data. The end goal is to be able to make better, data-backed decisions
+about what training patterns and activities work best from person to person. 
+
+## Features
+- Data cleaning and processing
+- Metrics to evaluate training trends and make better decisions in the future
+- Interactive visualizations with Streamlit
