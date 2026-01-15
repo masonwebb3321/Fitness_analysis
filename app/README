@@ -1,0 +1,11 @@
+How to access Strava data
+Access your Strava account and follow this path
+
+Settings > My Account > Download or Delete Your Account - get started > Download Request (optional)
+An email will be sent to you containing your csv
+
+How to run the file
+- Pip install all imports and dependcies
+- Update all local file references (.csv) to match the file you saved locally
+- in terminal, run the following
+streamlit run {your_file_name.py}
